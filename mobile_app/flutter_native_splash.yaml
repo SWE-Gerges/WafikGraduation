@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#2942a3"
+  image: assets/images/real_estate.png
+  color_dark: "#2942a3"
+
+  android_12:
+    image: assets/images/real_estate.png
+    icon_background_color: "#2942a3"
+    image_dark: assets/images/real_estate.png
+    icon_background_color_dark: "#2942a3"
+
+  web: false

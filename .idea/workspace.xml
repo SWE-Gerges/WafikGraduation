@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a374204-6e35-4dd3-9084-38fa7f2f9b26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/.fvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/kotlin/com/example/mobile_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-hdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-mdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-hdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-mdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-xhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-xxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night-xxxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-night/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xxxhdpi/android12splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-hdpi/launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/values-night-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/android/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/fonts/roboto/Roboto-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/assets/images/real_estate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/flutter_launcher_icons.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/flutter_native_splash.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchBackground.imageset/darkbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_app/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2vvKUtl8UiJseX8hVfFzf9rLh8w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "mobile-app",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/WafikGraduation/mobile_app/assets/fonts/roboto",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WafikGraduation\mobile_app\assets\fonts\roboto" />
+      <recent name="E:\WafikGraduation\mobile_app\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/mobile_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a374204-6e35-4dd3-9084-38fa7f2f9b26" name="Changes" comment="" />
+      <created>1745020126932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745020126932</updated>
+    </task>
+    <servers />
+  </component>
+</project>
