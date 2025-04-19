@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
-
+from django.shortcuts import render
 best_model = joblib.load("xgboost_real_estate_BestModel.pkl")
 
 FEATURE_ORDER = [
@@ -60,3 +60,8 @@ def predict(request):
 
     except Exception as e:
         return JsonResponse({"error": str(e)}, status=500)
+
+
+
+def home(request):
+    return render(request, 'home.html')
