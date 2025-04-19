@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartment Price Prediction App</title>
+    <style>
+        :root {
+            --primary-color: #4c6ef5;
+            --secondary-color: #15aabf;
+            --dark-color: #333;
+            --light-color: #f8f9fa;
+            --accent-color: #ff922b;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--dark-color);
+            background-color: var(--light-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1000px;
+            /* Slightly reduced width for better readability */
+            margin: 0 auto;
+            padding: 0 30px;
+            /* Increased horizontal padding */
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 60px 0;
+            /* Increased vertical padding */
+            text-align: center;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 700;
+            padding: 0 20px;
+            /* Added padding to h1 */
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            margin-top: 20px;
+            /* Increased margin */
+            opacity: 0.9;
+            padding: 0 20px;
+            /* Added padding to tagline */
+        }
+
+        .content {
+            padding: 60px 0;
+            /* Increased vertical padding */
+        }
+
+        .feature-section {
+            margin-bottom: 60px;
+            /* Increased bottom margin */
+            padding: 0 15px;
+            /* Added padding to feature sections */
+        }
+
+        h2 {
+            color: var(--primary-color);
+            margin-top: 0;
+            margin-bottom: 25px;
+            /* Added bottom margin to h2 */
+            font-size: 1.8rem;
+        }
+
+        p {
+            margin-bottom: 20px;
+            /* Added bottom margin to paragraphs */
+        }
+
+        .cards {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            /* Increased gap between cards */
+            margin-top: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            /* Increased border radius */
+            padding: 30px;
+            /* Increased padding */
+            flex: 1 1 300px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            /* Enhanced shadow */
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h3 {
+            color: var(--secondary-color);
+            margin-top: 0;
+            margin-bottom: 20px;
+            /* Added bottom margin */
+        }
+
+        .highlight {
+            background-color: #fff3e0;
+            border-left: 4px solid var(--accent-color);
+            padding: 30px;
+            /* Increased padding */
+            margin: 40px 15px;
+            /* Added horizontal margin */
+            border-radius: 0 12px 12px 0;
+            /* Increased border radius */
+        }
+
+        .cta {
+            background-color: var(--accent-color);
+            color: white;
+            text-align: center;
+            padding: 50px 30px;
+            /* Increased padding */
+            border-radius: 12px;
+            /* Increased border radius */
+            margin: 60px 15px 20px 15px;
+            /* Added margin on all sides */
+        }
+
+        .cta h2 {
+            color: white;
+            margin-bottom: 20px;
+            /* Added margin */
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: white;
+            color: var(--accent-color);
+            padding: 14px 30px;
+            /* Increased padding */
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 25px;
+            /* Increased margin */
+            transition: all 0.3s ease;
+            font-size: 1.1rem;
+            /* Slightly larger font */
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: var(--dark-color);
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+            /* Increased padding */
+            margin-top: 60px;
+            /* Increased top margin */
+        }
+
+        .icon {
+            font-size: 2.5rem;
+            /* Increased icon size */
+            margin-bottom: 15px;
+            /* Increased margin */
+        }
+
+        /* Media query for better mobile experience */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 20px;
+            }
+
+            header {
+                padding: 40px 0;
+            }
+
+            .content {
+                padding: 40px 0;
+            }
+
+            .card {
+                padding: 25px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Apartment Price Prediction App! 🏢</h1>
+            <p class="tagline">Make smarter real estate decisions with AI-powered price predictions</p>
+        </div>
+    </header>
+
+    <div class="container content">
+        <div class="feature-section">
+            <h2>About Our App</h2>
+            <p>
+                The Apartment Price Prediction App uses advanced machine learning algorithms to analyze real estate
+                market data
+                and provide accurate price estimates for apartments across various locations. Whether you're a buyer,
+                seller,
+                or real estate professional, our tool helps you navigate the market with confidence and precision.
+            </p>
+            <p>
+                By considering dozens of factors including location, size, amenities, market trends, and historical
+                pricing data,
+                our model delivers predictions that reflect the true value of properties in today's dynamic real estate
+                landscape.
+            </p>
+        </div>
+
+        <div class="highlight">
+            <h2>How Our App Can Help You</h2>
+            <p>
+                Finding the right price for an apartment can be challenging - our AI-powered prediction tool eliminates
+                the guesswork,
+                giving you data-backed insights that can save you thousands of dollars and countless hours of research.
+            </p>
+        </div>
+
+        <div class="feature-section">
+            <h2>Key Features</h2>
+            <div class="cards">
+                <div class="card">
+                    <div class="icon">📊</div>
+                    <h3>Accurate Predictions</h3>
+                    <p>Our algorithm continuously learns from market data to provide predictions with industry-leading
+                        accuracy rates.</p>
+                </div>
+                <div class="card">
+                    <div class="icon">🔍</div>
+                    <h3>Detailed Analysis</h3>
+                    <p>Get a breakdown of how different factors affect property value in your desired location.</p>
+                </div>
+                <div class="card">
+                    <div class="icon">📱</div>
+                    <h3>User-Friendly</h3>
+                    <p>Simple interface that makes complex predictions accessible to everyone, no technical expertise
+                        required.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cta">
+            <h2>Ready to make informed property decisions?</h2>
+            <p>Try our apartment price prediction tool which is available as a Mobile Application!
+                And gain the advantage of AI-powered insights!</p>
+            <a href="#" class="btn">Get Started</a>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Apartment Price Prediction App. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
