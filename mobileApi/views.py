@@ -1,9 +1,15 @@
 import joblib
+import os
+from django.conf import settings
 import numpy as np
 import pandas as pd
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
 from django.shortcuts import render
+
+
+model_path = os.path.join(settings.BASE_DIR, 'xgboost_real_estate_BestModel.pkl')
+best_model = joblib.load(model_path)
 best_model = joblib.load("xgboost_real_estate_BestModel.pkl")
 
 FEATURE_ORDER = [
